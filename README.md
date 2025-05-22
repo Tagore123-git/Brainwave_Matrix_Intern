@@ -76,7 +76,7 @@ For questions or clarifications:
 
 - **Name:** [TagoreNath Reddy Pocha]
 - **Email:** [tagorenath77@gmail.com]
-- **GitHub:** [Your GitHub Profile Link]
+- **GitHub:** [https://github.com/Tagore123-git]
 - **G-Drive:**[https://drive.google.com/file/d/16Kof_LuPnD_VOYxH5RW1N_2Q3N2wOLC0/view?usp=drive_link]
 
 
